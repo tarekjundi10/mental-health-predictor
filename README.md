@@ -2,6 +2,8 @@
 
 Predicts whether an individual is at high or low risk for a mental health condition based on lifestyle factors such as sleep, screen time, work hours, and social interaction.
 
+**Live Demo:** https://mental-health-predictor-0.streamlit.app/
+
 **Live API:** https://mental-health-predictor-t0og.onrender.com/docs
 
 ## Problem
